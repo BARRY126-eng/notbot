@@ -1,0 +1,7 @@
+# Copy to .dev.vars for local development (never commit .dev.vars)
+NOTPANEL_API_KEY=np_live_xxx
+BOT_TOKEN=123456:ABC
+TG_WEBHOOK_SECRET=any-long-random-string
+# Local only: lets the app run in a normal browser without Telegram, as this user id
+DEV_FAKE_USER_ID=1
+OWNER_IDS=1
