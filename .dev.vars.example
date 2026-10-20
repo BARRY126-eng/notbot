@@ -2,9 +2,9 @@
 # These are the two secrets the Deploy to Cloudflare button asks for.
 
 # Telegram bot token from @BotFather (https://t.me/BotFather)
-BOT_TOKEN=123456:ABC-DEF
+BOT_TOKEN=8730817518:AAG0r6pScIMT0kjeIo8_rMaKuYY-OfOQ0DU
 # NotPanel API key (https://notpanel.com/developers). Optional here: it can also be pasted in the setup page.
-NOTPANEL_API_KEY=np_live_xxx
+NOTPANEL_API_KEY=np_live_31d02854c265eb76f99860b012694ef2
 
 # Local development only, not asked for on deploy: opens the app in a normal browser as this Telegram user id
 # DEV_FAKE_USER_ID=1
